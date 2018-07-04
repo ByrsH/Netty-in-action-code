@@ -1,0 +1,50 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+.idea/
+.mvn/
+target/
+mvnw*
+
+utils/.idea/
+utils/.mvn/
+utils/target/
+utils/*.iml
+utils/mvnw*
+
+chapter1/.idea/
+chapter1/target/
+chapter1/*.iml
+
+chapter2/.idea/
+chapter2/.mvn/
+chapter2/target/
+chapter2/*.iml
+chapter2/mvnw*
+
+chapter4/.idea/
+chapter4/.mvn/
+chapter4/target/
+chapter4/*.iml
+chapter4/mvnw*
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
